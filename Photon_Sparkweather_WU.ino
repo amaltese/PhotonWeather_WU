@@ -184,7 +184,7 @@ char WEBPAGE [] = "GET /weatherstation/updateweatherstation.php?";
 
 //Station Identification
 char ID [] = "KINBLOOM52"; //Your station ID here
-char PASSWORD [] = "pa55word"; //your Weather Underground password here
+char PASSWORD [] = "xxxxx"; //your Weather Underground password here
 
 TCPClient client;
 
